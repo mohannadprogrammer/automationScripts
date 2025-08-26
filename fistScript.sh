@@ -1,4 +1,4 @@
-#bin 
+#!/bin/bash
 # echo "all the errors down there : >"
 
 
